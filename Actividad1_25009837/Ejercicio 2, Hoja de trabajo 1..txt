@@ -1,0 +1,99 @@
+Ejercicio 2.
+"Algoritmos"
+
+a- Sacar a pasear un perro.
+
+1. Ponerle la correa al perro.
+2. Abrir la puerta de la calle.
+3. salir de la casa
+4. Cerrar la puerta de la calle.
+5. ir a pasear.
+6. Regresar de pasear.
+7. Abrir la puerta de la casa.
+8. Entrar a la casa.
+9. Cerrar la puerta de la casa.
+10. Quitarle la correa al perro.
+
+b- Limpiar un acuario con peces
+
+1. Preparar un reipente con agua.
+2. Colocar los peces en el recipiente con agua.
+3. Drenar el agua que esta sucia.
+4. Remover el filtro del acuario.
+5. Lavar el acuario.
+6. Dar mantenimiento al filtro.
+7. Retornar el filtro al acuario.
+8. Rellenar el acuario con agua limpia.
+9. Retornar los peces al acuario.
+
+c- Preparar un desayuno chapín
+
+1. Encender tres ornillas de la estufa
+2. Colocar una sarten en cada ornilla de la estufa.
+3. En el primmer saraten poner a freir frijoles.
+4. En el segundo sarten,poner a freir plátanos.
+5. En el tercer sarten poner a freir huevos.
+6. Retirar los frijoles de la primer ornilla.
+7. Colocar el frijol en el plato.
+8. Apagar la primer ornilla.
+9. Retirar los plátanos de la segunda ornilla.
+10.Colocar los plátanos en el plato
+11.Apagar la segunda ornilla.
+12.Retirar los huevos de la tercer ornilla.
+13.Colocar los huevo en el plato.
+14.Apagar la tercer ornilla.
+15.Colocar el plato en la mesa.
+
+d- Preparar un licuado de frutas tropicales
+
+1. Armar la licuadora.
+2. Conectar la licuadora.
+3. Cortar las frutas tropicales en cuadritos.
+4. Agregar las frutass tropicales a la licuadora.
+5. Agregar leche a la licuadora.
+6. Agregar azucar a la licuadora.
+7. Tapar la licuadora.
+8. Encender la licuadora.
+9. Matener la licuadora encendida por 10 minutos.
+10.Apagar la licuadora.
+11.Vacial el ontenido de la licuadora en un vaso.
+12.Deconenctar la licuadora.
+13.Desarmar la licuadora.
+
+e- Echar a andar un carro
+
+1. Quitar el seguro de la puerta dedl carro.
+2. Abrir la puerta del carro.
+3. Montarse en el carro.
+4. Cerrar la puerta del carro.
+5. Colocar el seguro.
+6. Precionar el freno.
+7. Presionar el botón de encendido.
+8. Colocarse el cinturon.
+9. Colocar el modo de marcha en Drive.
+10.Quitar el freno de manos.
+11.Dejar de presionar el freno.
+12.Preciconar el acelerador.
+
+f- Cocer un hoyo de un pantalón
+
+1. Elegir una aguja.
+2. Elegir un hilo.
+3. Enhebrar el hilo en la aguja.
+4. Hacer un nudo en la punta del hilo.
+5. Identificar el agujero en el pantaón.
+6. Insertar la aguja en un costado del agujero.
+7. Jalar la aguja.
+8. Identificar el costado contrario.
+9. Insertar la aguja en el costadod contrario.
+10.Volver a jalar la aguja.
+11.Identificar el costado anterior.
+12.Insertar la aguja arriba de la puntada antes realizada.
+11.Jalar la aguja
+12.Identificar el costado contrario nuevamente.
+13.Insertar la aguja arriba de la punta antes realizada.
+14.Repetir procedidmiento hasta abarcar el aguero.
+14.Insertar la aguja en la puntada final
+15.Amarrar el hilo en esa ultima puntada.
+16.Cortar el hilo.
+

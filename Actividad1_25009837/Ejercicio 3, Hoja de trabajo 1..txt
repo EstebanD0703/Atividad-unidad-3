@@ -1,0 +1,83 @@
+Ejercicio 3.
+"Algoritmos"
+
+1. Identifique al menos 5 situaciones que quiere que sean verdad. Pueden ser situaciones de la vida cotidiana, de sus estudios o trabajo o inventadas. Pero no puede usar las del ejemplo.
+
+    a. Tener licencia de Manejar.
+    b. Aprender a programar.
+    c. Construir una casa.
+    d. Tener una novia.  
+    e. Casarme a los 30 años. 
+
+2. Para cada situación identifique las condiciones que la afectarían. Explique brevemente, en dos líneas, cómo afectan las condiciones a la situación.
+
+    a.Aprender a Manejar.
+      - Aprobar el examen de conducir y aprobar el examen de señales de         tránsito.
+      + Si apruebo el examen de conducir pero no apruebo el examen de           señalizaiones no me dan la licencia, y viceversa 
+
+    b.Aprender a programar.
+      - Aprobar cursos de programacion y practicar con proyectos.
+      + SI apruebo los cucrsos de programacion, significa que si                aprendí a programar, y si practicoc mas con proyectos voy a             facilitar el procedimiento.
+     
+    c.Construir una casa.
+      - Comprarme un terreno y tener los planos de la casa
+      + Si no me compro el terreno no tengo lugar en el cual yo pueda         construir mi casa, y si  ya poseo el terreno necesito los               planos para poder construirla.
+
+    d.Tener una novia.
+      - Bañarme todos los días y ser gracioso
+      + Es importante bañarse todos los días para que la persona que            nos guste no sienta rechazo por nosotros, así tambien el ser            gracioso es una muy buena forma de conuistar a una persona.
+
+    e.Casarme a los 30 años.
+      - Conseguir una novia y no ser infiel.
+      + Si Es necesario tener una novia para poderse casar, ya que si         tienes una novia sera alguien a quien ya conozcas, y tienes que         ser fiel por que si no, la confianza se perdería y no querría         casarse conmigo.
+
+3. Identifique si alguna de las condiciones es una negación y explique por qué en una o dos líneas.
+
+    e.Casarme a los 30 años.
+      - No ser infiel.
+      + En esta ocasion se invierte la condicion de ser infiel a NO ser         infiel, ya que es necesario no ser infiel.
+
+4. Identifique si es necesario que ambas condiciones se cumplan o si basta con una sola condición, es decir identifique si es una conjunción o una disyunción.
+
+    a.Aprender a Manejar.
+      - Aprobar el examen de conducir y aprobar el examen de señales de         tránsito.
+      + Es una conjunción.
+    
+    b.Aprender a programar.
+      - Aprobar cursos de programacion y practicar con proyectos.
+      + Es una disyunción.
+     
+    c.Construir una casa.
+      - Comprarme un terreno y tener los planos de la casa
+      + Es una conjunción.
+
+    d.Tener una novia.
+      - Bañarme todos los días y ser gracioso
+      + Es una disyunción.
+
+    e.Casarme a los 30 años.
+      - Conseguir una novia y no ser infiel.
+      + Es una conjunción.
+
+5. Forme el enunciado compuesto, remarcando o subrayando las proposiciones:
+Y, O, NO.
+
+   a.Aprender a Manejar.
+  Si apruebo el examen de conducir Y apruebo el examen de señales de      tránsito ENTONCES voy a aprender a manejar.      
+
+    b.Aprender a programar.
+  Si apruebo mis cursos de programación O practico con proyectos     ENTONCECS voy a aprender a programar.
+    
+    c.Construir una casa.
+  Si me compro un terreno Y tengo mis planos ENTONCES puedo construir     mi casa  
+
+    d.Tener una novia.
+  Si me baño todos los días O soy muy gracioso ENTONCES voy a tener una   novia.  
+
+    e.Casarme a los 30 años.
+  Si consigo una novia Y NO soy infiel ENTONCES me podré casra a los 30   años.  
+
+
+
+
+
